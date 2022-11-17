@@ -1,0 +1,66 @@
+/* 
+
+Project Name: Cookie Monster 
+Client: Cookie Monster
+Author: Chris Castig  
+Developed in NYC
+
+*/
+
+html {
+
+	background: url('cookie-monster.jpg') no-repeat;
+
+
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+
+
+}
+
+#container{
+	background: black;
+	width: 560px;
+	padding: 10px;
+
+}
+
+head{
+	font-family: sans-serif;
+	color: white;
+}
+body{
+	font-family: sans-serif;
+	color: #35C0F2;
+
+}
+
+h1{
+	font-size: 80px;
+	color: blue;
+	color: white;
+}
+
+h2	{
+	font-size: 46px;
+	background: #35C0F2;
+	padding: 5px;
+	color: black;
+	border-radius: 8px;
+}
+a {
+	color: 35C0F2;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
